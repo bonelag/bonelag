@@ -42,20 +42,14 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://hieudz.carrd.co" target="blank">
+  <a href="https://bonelag.carrd.co" target="blank">
     <img width="90" height="90" src="images/overkill.png" alt="overkill" />
   </a>
-  <a href="https://facebook.com/overkill.DEV" target="blank">
+  <a href="https://facebook.com/bonelag" target="blank">
     <img width="90" height="90" src="https://img.icons8.com/dusk/64/facebook-new--v2.png" alt="facebook-new--v2"/>
   </a>
-  <a href="https://t.me/hieusadboy" target="blank">
+  <a href="https://t.me/bonelag" target="blank">
     <img width="90" height="90" src="https://img.icons8.com/dusk/64/telegram-app.png" alt="telegram-app"/>
-  </a>
-  <a href="https://zalo.me/hieudz3101" target="blank">
-    <img width="90" height="90" src="https://img.icons8.com/dusk/64/zalo.png" alt="zalo"/>
-  </a>
-  <a href="https://ht4gvpn.com" target="top">
-    <img width="90" height="90" src="images/ht4g.png" alt="ht4gvpn" />
   </a>
 </div>
 
