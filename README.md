@@ -14,7 +14,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js&logoColor=4FC08D" alt="Nuxt.js logo" title="Nuxt.js" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=cpp&logoColor=4FC08D" alt="cpp logo" title="cpp" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
@@ -31,10 +31,10 @@
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
-  <a href="#" title="ZeronX DEV">
+  <a href="#" title="BoneLag">
     <img width="434" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonelag&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="ZeronX DEV">
+  <a href="#" title="BoneLag">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=bonelag&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 
