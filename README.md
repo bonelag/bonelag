@@ -1,62 +1,180 @@
-<a href="#" target="_blank">
-  <img src="svg/overkilldev.svg" width="1200" alt="overkill" />
-</a>
-
-![](https://raw.githubusercontent.com/bonelag/bonelag/main/svg/snake.svg)
-
-<h2 align="center">🛠 Languages 🛠</h2>
-<br>
-<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
-<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
-&nbsp;
-<span><img src="images/bash.png" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-&nbsp;
-
-<br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<br>
-  <a href="#" title="BoneLag">
-    <img width="434" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonelag&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="#" title="BoneLag">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=bonelag&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
-
-
-<br><br><br><br><br><br><br><br>
-<h2 align="center">👽 Where to find me 👽</h2>
-<br>
-<!-- https://icons8.com -->
 <div align="center">
-  <a href="https://bonelag.carrd.co" target="blank">
-    <img width="90" height="90" src="images/overkill.png" alt="overkill" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=BoneLag&fontAlign=50&fontAlignY=38&fontSize=68&fontColor=ffffff&desc=Building%20the%20future%2C%20one%20commit%20at%20a%20time&descAlign=50&descAlignY=58&animation=fadeIn" />
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2600&pause=900&color=00F5FF&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+BoneLag+%F0%9F%91%8B;Developer+%7C+Tech+Explorer+%7C+Future+Builder;Code.+Break.+Fix.+Repeat.;Welcome+to+my+digital+lab+%E2%9A%A1" alt="Typing SVG" />
+</p>
+
+<p>
+  <a href="https://github.com/bonelag">
+    <img src="https://img.shields.io/badge/GitHub-bonelag-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://facebook.com/bonelag" target="blank">
-    <img width="90" height="90" src="https://img.icons8.com/dusk/64/facebook-new--v2.png" alt="facebook-new--v2"/>
-  </a>
-  <a href="https://t.me/bonelag" target="blank">
-    <img width="90" height="90" src="https://img.icons8.com/dusk/64/telegram-app.png" alt="telegram-app"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=bonelag&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/badge/Status-Coding%20Mode%20ON-00f5ff?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
 </div>
 
-<br>
+---
 
-<center>
-<a href="#" target="_blank">
-  <img src="svg/quotes.svg" width="846" height="150" alt="quotes" />
+## 🧬 About Me
+
+```txt
+Name        : BoneLag
+Username    : bonelag
+Role        : Developer / Tech Enthusiast
+Mode        : Learning, building, experimenting
+Mission     : Turn ideas into clean, useful, futuristic products
+```
+
+I love exploring technology, breaking things to understand them, then rebuilding them better.  
+My GitHub is my digital workshop: code, experiments, notes, tools, and tiny sparks of chaos.  
+
+---
+
+## 🚀 Tech Arsenal
+
+<div align="center">
+
+### Languages & Core
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,cs,html,css,md" />
+
+### Frameworks & Tools
+
+<img src="https://skillicons.dev/icons?i=react,next,nodejs,express,tailwind,vite,git,github,vscode" />
+
+### Systems & Platforms
+
+<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,docker,cloudflare,vercel,netlify" />
+
+</div>
+
+---
+
+## ⚡ What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛠 Build
+- Web apps with clean UI
+- Automation scripts
+- Developer tools
+- Personal experiments
+
+</td>
+<td width="50%">
+
+### 🧠 Learn
+- System internals
+- AI-assisted development
+- Cloud deployment
+- Modern frontend stacks
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎮 Explore
+- Game-related tools
+- Performance tweaks
+- Windows / Linux setup
+- Weird tech rabbit holes
+
+</td>
+<td width="50%">
+
+### 🌌 Create
+- Futuristic interfaces
+- Useful mini projects
+- README magic
+- Code that does not explode... usually
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bonelag&theme=bear" width=750  alt="stats graph"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=bonelag&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" />
+
+</div>
+
+---
+
+## 🧩 Featured Zone
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <h3>⚙️ Projects</h3>
+  <p>Tools, experiments, and small builds that solve real problems.</p>
+</td>
+<td align="center" width="33%">
+  <h3>🧪 Lab</h3>
+  <p>Where bugs are born, hunted, and occasionally adopted.</p>
+</td>
+<td align="center" width="33%">
+  <h3>🌐 Future</h3>
+  <p>Always learning. Always upgrading. Always shipping.</p>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bonelag/bonelag/refs/heads/main/svg/snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bonelag/bonelag/refs/heads/main/svg/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bonelag/bonelag/refs/heads/main/svg/snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 🛰 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/bonelag">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-</center>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-00F5FF?style=for-the-badge&logo=gmail&logoColor=black" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-7B2FF7?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### `while(alive) { learn(); build(); improve(); }`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2c5364,50:203a43,100:0f2027" />
+
+</div>
