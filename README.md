@@ -54,7 +54,7 @@ My GitHub is my digital workshop: code, experiments, notes, tools, and tiny spar
 ---
 
 ## ⚡ What I Do
-
+<div align="center">
 <table>
 <tr>
 <td width="50%">
@@ -87,7 +87,7 @@ My GitHub is my digital workshop: code, experiments, notes, tools, and tiny spar
 
 </td>
 <td width="50%">
-
+</div>
 ### 🌌 Create
 - Futuristic interfaces
 - Useful mini projects
@@ -161,7 +161,7 @@ My GitHub is my digital workshop: code, experiments, notes, tools, and tiny spar
 <a href="https://github.com/bonelag">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="mailto:your-email@example.com">
+<a href="mailto:hiuisme05@gmail.com">
   <img src="https://img.shields.io/badge/Email-00F5FF?style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
 <a href="#">
