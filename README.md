@@ -175,6 +175,11 @@ My GitHub is my digital workshop: code, experiments, notes, tools, and tiny spar
 <div align="center">
 
 ### `while(alive) { learn(); build(); improve(); }`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bonelag/bonelag/refs/heads/main/svg/quotes.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bonelag/bonelag/refs/heads/main/svg/quotes.svg">
+  <img alt="quotes" src="https://raw.githubusercontent.com/bonelag/bonelag/refs/heads/main/svg/quotes.svg">
+</picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2c5364,50:203a43,100:0f2027" />
 
