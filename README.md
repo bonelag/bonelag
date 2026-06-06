@@ -164,9 +164,10 @@ My GitHub is my digital workshop: code, experiments, notes, tools, and tiny spar
 <a href="mailto:hiuisme05@gmail.com">
   <img src="https://img.shields.io/badge/Email-00F5FF?style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-7B2FF7?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="[ĐƯỜNG_LINK_MỜI_DISCORD_CỦA_BẠN](https://discord.com/users/1015438971611926630)">
+  <img src="https://shields.io" />
 </a>
+
 
 </div>
 
