@@ -87,7 +87,7 @@ My GitHub is my digital workshop: code, experiments, notes, tools, and tiny spar
 
 </td>
 <td width="50%">
-</div>
+
 ### 🌌 Create
 - Futuristic interfaces
 - Useful mini projects
@@ -97,7 +97,7 @@ My GitHub is my digital workshop: code, experiments, notes, tools, and tiny spar
 </td>
 </tr>
 </table>
-
+</div>
 ---
 
 ## 📊 GitHub Analytics
