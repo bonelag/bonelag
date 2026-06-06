@@ -110,12 +110,9 @@ My GitHub is my digital workshop: code, experiments, notes, tools, and tiny spar
 
 <img src="https://streak-stats.demolab.com?user=bonelag&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" />
 
+<br/>
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&fontFamily=&preferLogin=false&Text=DDCC00">    <img  alt="bonelag's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/bonelag?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false&Text=DDCC00" />  </a>
 </div>
-<center>
-  
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/bonelag?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false&Text=DDCC00)](https://git.io/awesome-stats-card)
-
-</center>
 ---
 
 ## 🧩 Featured Zone
